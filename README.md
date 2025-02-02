@@ -30,7 +30,7 @@ _Aşağıdaki alanlara ekran görüntülerini ekleyebilirsiniz._
 
 | Heatmap | Arayüz |
 |---------|--------|
-| ![Heatmap](./images/heatmap_example.png) | ![GUI](./images/gui_example.png) |
+| ![Heatmap](https://github.com/realmir1/colormap/blob/main/Ekran%20Resmi%202025-02-02%2023.11.49.png?raw=true) | ![GUI](https://github.com/realmir1/colormap/blob/main/Ekran%20Resmi%202025-02-02%2023.11.57.png?raw=true) |
 
 ---
 
